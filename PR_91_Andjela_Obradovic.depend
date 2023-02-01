@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1643001327 source:c:\users\andjela\desktop\baze-projekti\2\pr_91_20191\pr_91_2019\pr_91_andjela_obradovic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacije.h"
+
+1642998257 c:\users\andjela\desktop\baze-projekti\2\pr_91_20191\pr_91_2019\pr_91_andjela_obradovic\operacije.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<string.h>
+	<stddef.h>
+	"slog.h"
+
+1642762262 c:\users\andjela\desktop\baze-projekti\2\pr_91_20191\pr_91_2019\pr_91_andjela_obradovic\slog.h
+
+1643077291 source:c:\users\andjela\desktop\baze-projekti\2\pr_91_20191\pr_91_2019\pr_91_andjela_obradovic\operacije.c
+	"slog.h"
+	"operacije.h"
+	<stdbool.h>
+
